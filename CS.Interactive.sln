@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "N1-Data-Types", "N1-Data-Types", "{309A5D81-416D-4A57-8CB8-14D85874266B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data.Intro", "Data.Intro\Data.Intro.csproj", "{4C2EFF15-8DAA-4D17-A017-931CF587962E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C2EFF15-8DAA-4D17-A017-931CF587962E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2EFF15-8DAA-4D17-A017-931CF587962E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2EFF15-8DAA-4D17-A017-931CF587962E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2EFF15-8DAA-4D17-A017-931CF587962E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4C2EFF15-8DAA-4D17-A017-931CF587962E} = {309A5D81-416D-4A57-8CB8-14D85874266B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91F9C691-42A4-4C80-A4A8-FC9157663E2F}
+	EndGlobalSection
+EndGlobal
